@@ -1,2 +1,4 @@
 # cypress-discovery
-First project to learn cypress
+Improving cypress 
+CI: Github Actions
+
